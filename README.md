@@ -5,8 +5,8 @@ wrote a basic nfc security system where the tags or cards with the correct crede
 Board: 
     Nucleo F411RE
 ## Sensors:
-SSd1306 OLED Display
-RC522 RFID Reader
+    SSd1306 OLED Display
+    RC522 RFID Reader
 ## Framework: 
 Arduino
 ## Libraries:
