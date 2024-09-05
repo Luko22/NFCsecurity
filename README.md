@@ -8,7 +8,7 @@ Board:
     SSd1306 OLED Display
     RC522 RFID Reader
 ## Framework: 
-Arduino
+    Arduino
 ## Libraries:
     adafruit/Adafruit GFX Library@^1.11.5
     adafruit/Adafruit SSD1306@^2.5.7
