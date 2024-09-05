@@ -10,10 +10,10 @@ Board:
 ## Framework: 
 Arduino
 ## Libraries:
-adafruit/Adafruit GFX Library@^1.11.5
-adafruit/Adafruit SSD1306@^2.5.7
-adafruit/Adafruit BusIO@^1.14.1
-miguelbalboa/MFRC522@^1.4.10
+    adafruit/Adafruit GFX Library@^1.11.5
+    adafruit/Adafruit SSD1306@^2.5.7
+    adafruit/Adafruit BusIO@^1.14.1
+    miguelbalboa/MFRC522@^1.4.10
 
 
 
